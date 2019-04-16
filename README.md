@@ -32,7 +32,7 @@
 }
 ```
 
-### Get person:
+### Get tools:
 
 `GET /tools` (authentication required): gets all tools.
 
